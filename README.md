@@ -1,4 +1,34 @@
-### Hi there 👋
+## Olá, Eu sou a Isis ! 👩👋
+#### Seja muito bem vindo(a) !😊
+
+## Quem sou Eu ?
+
+Profissional formada em Educação Física 💪, embora desde sempre trabalhou com dados mesmo sem saber.
+
+Fazendo a junção de todas as minhas experiências, resolvi adentrar esse universo gigantesco de possibilidades que é a Ciência de Dados 🥰.
+
+Atualmente sou aluna da Flai Inteligência Artificial 👩‍🎓😍
+
+## Habilidades 👩‍💻
+
+* Power BI
+* Google Data Studio
+* Python
+* Excel
+* Análise de Dados
+
+## Estudando 👩‍🎓
+
+* Ciência de Dados 
+* Inteligência Artificial
+
+## Me encontre 🌎
+
+[Linkedin](www.linkedin.com/in/isis-karina)
+
+## Meus Projetos
+
+
 
 <!--
 **IsisKarina/IsisKarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
