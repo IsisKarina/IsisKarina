@@ -23,7 +23,7 @@ Atualmente sou aluna da Flai Inteligência Artificial 👩‍🎓😍
 * Ciência de Dados 
 * Inteligência Artificial
 
-## Me encontre 🌎
+## Me Encontre 🌎
 
 [Linkedin](www.linkedin.com/in/isis-karina)
 
