@@ -4,11 +4,14 @@
 ![GitHub_Logo](fbavatar_1629858115414_6836120412915171456.png)
 ## Quem sou Eu ?
 
-Profissional formada em Educação Física 💪, embora desde sempre trabalhando com Dados. 
 
-Fazendo a junção de todas as minhas experiências, resolvi adentrar esse universo gigantesco de possibilidades que é a Ciência de Dados🥰.
+Toda minha trajetória profissional foi baseada em dados.
+Analisando desempenho , contratos, estratégias de vendas, indicadores , dando treinamentos, suporte e feedbacks a gerência e aos colaboradores.
+Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativa, curiosa, comunicativa, boa ouvinte, mediadora e busco desafios para o meu desenvolvimento pessoal.
+Atualmente estou estudando e aprofundando meus conhecimentos em Análise de Dados, Power BI, Programação, Machine Learning e Big Data.
+Procuro uma recolocação no mercado.
+![image](https://user-images.githubusercontent.com/86325206/134827542-68a8b3db-abff-4fcf-b0da-fe60e857b88e.png)
 
-Atualmente sou aluna da Flai Inteligência Artificial 👩‍🎓😍
 
 ## Habilidades 👩‍💻
 
