@@ -29,6 +29,9 @@ Atualmente sou aluna da Flai Inteligência Artificial 👩‍🎓😍
 
 ## Meus Projetos
 
+[
+Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profissional_de_Dados_Brasil)
+
 
 
 <!--
