@@ -32,7 +32,7 @@ Atualmente sou aluna da Flai Inteligência Artificial 👩‍🎓😍
 [
 Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profissional_de_Dados_Brasil)
 
-
+[People_Analytics](https://github.com/IsisKarina/People_Analytics)
 
 <!--
 **IsisKarina/IsisKarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
