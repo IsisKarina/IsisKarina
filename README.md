@@ -37,6 +37,9 @@ Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profis
 
 [People_Analytics](https://github.com/IsisKarina/People_Analytics)
 
+[Gastos Cartão de Crédito](https://github.com/IsisKarina/Gastos_Cartao_de_Credito)
+
+
 <!--
 **IsisKarina/IsisKarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
