@@ -27,7 +27,7 @@ Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativ
 
 ## Connect with me 🌎
 
-[<img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="40"/>](https://www.linkedin.com/in/isis-karina)  [<img src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" width="40"/>](https://www.instagram.com/invites/contact/?i=125ba1usor69b&utm_content=4ubyr1)
+[<img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="40"/>](https://www.linkedin.com/in/isiskarina)  [<img src="https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text.png" width="40"/>](https://www.instagram.com/invites/contact/?i=125ba1usor69b&utm_content=4ubyr1)
 
 ## My Projects
 
