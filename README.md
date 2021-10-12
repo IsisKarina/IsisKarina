@@ -27,7 +27,7 @@ Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativ
 
 ## Connect with me 🌎
 
-[<img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="40"/>](https://www.linkedin.com/in/isiskarina)  
+[<img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="40"/>](https://www.linkedin.com/in/isiskarina) 
 
 
 ## My Projects
