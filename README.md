@@ -34,7 +34,7 @@ Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativ
 
 
 
-## My Projects
+## Meus Projetos
 
 [
 Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profissional_de_Dados_Brasil)
