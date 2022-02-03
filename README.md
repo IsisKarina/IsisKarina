@@ -43,6 +43,8 @@ Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profis
 
 [Gastos Cartão de Crédito](https://github.com/IsisKarina/Gastos_Cartao_de_Credito)
 
+[Projeto Engenharia de Dados Stack Labs](https://github.com/IsisKarina/Projeto_Engenharia_de_Dados_StackLabs)
+
 
 <!--
 **IsisKarina/IsisKarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
