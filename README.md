@@ -34,16 +34,6 @@ Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativ
 
 
 
-## Meus Projetos
-
-[
-Perfil_Profissional_de_Dados_Brasil](https://github.com/IsisKarina/Perfil_Profissional_de_Dados_Brasil)
-
-[People_Analytics](https://github.com/IsisKarina/People_Analytics)
-
-[Gastos Cartão de Crédito](https://github.com/IsisKarina/Gastos_Cartao_de_Credito)
-
-[Projeto Engenharia de Dados Stack Labs](https://github.com/IsisKarina/Projeto_Engenharia_de_Dados_StackLabs)
 
 
 <!--
