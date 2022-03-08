@@ -7,7 +7,9 @@
 
 Toda minha trajetória profissional foi baseada em dados.
 Analisando desempenho , contratos, estratégias de vendas, indicadores , dando treinamentos, suporte e feedbacks a gerência e aos colaboradores.
-Hoje estou estudando Engenharia de Dados e Cybersecurity com ênfase em Governança de dados
+
+Hoje estou estudando Engenharia de Dados e Cybersecurity com ênfase em Governança de dados.
+
 Tenho facilidade em aprender novas habilidades, lidar com pessoas, sou pró-ativa, curiosa, comunicativa, boa ouvinte, mediadora e busco desafios para o meu desenvolvimento pessoal.
 
 
