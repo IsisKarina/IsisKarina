@@ -1,7 +1,7 @@
 ## Olá ! Eu sou a Isis ! 👩👋
 #### Seja Bem Vindo(a) !😊
 ###
-![GitHub_Logo](fbavatar_1629858115414_6836120412915171456.png)
+
 ## Quem sou eu ?
 
 
